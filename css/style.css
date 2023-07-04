@@ -1,0 +1,42 @@
+nav{
+    background-color: #f5f5f5;
+}
+
+body{
+    background-color: #A28089;
+}
+
+h1{
+    color: #f5f5f5;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main div.importante{
+    text-align: center;
+    color: #A28089;
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+main div.italiana{
+    text-align: center;
+    color: #A28089;
+    background-color: #f5f5f5;
+    font-weight: bolder
+}
+
+main div.americana{
+    text-align: center;
+    color: #A28089;
+    background-color: #f5f5f5;
+    font-weight: bolder
+}
+
+main div.coreana{
+    text-align: center;
+    color: #A28089;
+    background-color: #f5f5f5;
+    font-weight: bolder
+}
+
